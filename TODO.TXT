@@ -1,0 +1,37 @@
+x start and finish FIND GOVT CONTACT PAGE
+    - america, uk, aus, nz, 
+
+- start and finish COMPANIES LINKED TO RUSSIA PAGE
+    - search companies feature
+        - import csv file with ticker names
+        - highlight nordstorm 2 pipeline financiers
+        - company contact details
+
+x companies that fund the nordstrom pipeline
+    - BASF
+    - OMV
+    - SHELL
+    - UNIPER
+    - ENGIE
+
+x finish reason PAGE
+
+- outline supposed main motivation for the invasion as an faq
+
+x fix news sub nav on mobile
+
+- check mobile responsiveness
+    - text size changes
+        x charities PAGE
+        x faq PAGE
+        x reason page
+        x pad the faq text downwards slightly on mobile
+
+- site translations for text
+
+- site language dropdown menu for languages
+
+- get the site mapped and indexed by Google
+
+
+
