@@ -4,7 +4,7 @@
 <h3 align="center">rallyUkraine</h3>
 
   <p align="center">
-    A currently live info consolidation website, made with the goal of centralising information regarding the recent Russian
+    An archived info consolidation website, made with the goal of centralising information regarding the recent Russian
 invasion of Ukraine to improve public understanding and accessibility. The site has reached 1.5K unique visitors.
     <br />
     <br />
