@@ -8,7 +8,7 @@
 invasion of Ukraine to improve public understanding and accessibility. The site has reached 1.5K unique visitors.
     <br />
     <br />
-    <a href="https://rallyukraine.com">View Site</a>
+    <a href="https://carterfaceysmith.github.io/rallyUkraine/">View Site</a>
   </p>
 </div>
 
